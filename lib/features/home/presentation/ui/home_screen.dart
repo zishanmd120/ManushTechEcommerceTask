@@ -18,6 +18,7 @@ class HomeScreen extends GetView<HomeController> {
           padding: const EdgeInsets.symmetric(horizontal: 15.0),
           child: Column(
             children: [
+              SizedBox(height: 10,),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
@@ -31,8 +32,8 @@ class HomeScreen extends GetView<HomeController> {
                         decoration: BoxDecoration(
                           shape: BoxShape.circle,
                         ),
-                        child: Image.network(
-                          'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-social-600nw-2409187029.jpg',
+                        child: Image.asset(
+                          'assets/images/avatar.png',
                         ),
                       ),
                       Column(
