@@ -1,11 +1,9 @@
 # ecom_zishan
 
-A new Flutter project.
+A new Flutter project to run it just run command flutter pub get and you are good to go.
 
 Apk:
 https://drive.google.com/drive/folders/16O4ni89KpOzz0Yq1PvK91MbuVc57puNd?usp=drive_link
-
-Just run flutter pub get and you are good to go.
 
 ## Getting Started
 
